@@ -7,7 +7,7 @@
 }
 
 /* ----------- For screens 1200px wide and larger----------- */
-@media (min-width: 1200px) and (max-width: 2000px){
+@media (min-width: 1200px){
 body{
   background: rgb(251, 255, 0);
 }
